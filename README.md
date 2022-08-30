@@ -56,7 +56,7 @@ namespace helloworld
 ```
 
 ## Output:
-![ouput](output%201%20(1).png)
+![ouput](output.png)
 
 ## Result:
 Thus the C# program to find the largest of three numbers is executed successfully
